@@ -1,0 +1,106 @@
+[15/09/2025, 09:15:22] Laura creó el grupo "Grupo Fundamentos 💻🍺"
+[15/09/2025, 09:15:22] Laura te añadió
+[15/09/2025, 09:16:05] Laura: Hola chicos! He hecho el grupo para la asignatura de Fundamentos de Programación. Así nos organizamos para las prácticas.
+[15/09/2025, 09:18:12] Dani: buenas 👋 qué pereza de lunes por dios
+[15/09/2025, 09:20:00] Elena: Holiii! Gracias por crearlo Laura 😊 Qué tal os ha parecido el profesor?
+[15/09/2025, 09:21:45] Alex: El temario parece sencillo. Ha dicho que empezaremos con C++, que es un lenguaje tipado estáticamente. Bastante estándar.
+[15/09/2025, 09:22:10] Dani: en español por favor jajajaja
+[15/09/2025, 09:22:33] Sofía: A mí me ha dado miedo!!! Ha dicho que la tasa de suspensos es del 60%???? Me va a dar algo 😭😭
+[15/09/2025, 09:25:00] Javi: Alguien para unas rankeds de Valorant esta tarde?
+[15/09/2025, 09:26:12] Laura: Javi, acabamos de empezar el curso jajaja. Recordad que hay que instalar el entorno de desarrollo para el jueves.
+[16/09/2025, 10:05:00] Dani: gente, alguien ha ido a la clase de hoy? me he quedado dormido
+[16/09/2025, 10:06:15] Laura: Dani... es la segunda clase. Ha explicado los tipos de variables (int, float, char).
+[16/09/2025, 10:07:00] Dani: bua gracias laura, luego te pido apuntes si eso
+[18/09/2025, 18:30:15] Sofía: CHICOS AYUDA!!! Estoy instalando el compilador y me sale un error en rojo super raro!!!
+[18/09/2025, 18:32:00] Alex: Qué dice el error? Seguramente no has añadido el path a las variables de entorno.
+[18/09/2025, 18:33:10] Sofía: Dice "Command not found". Voy a llorar, mi ordenador odia programar.
+[18/09/2025, 18:35:22] Elena: Sofi no te rayes, mañana en el labo le preguntamos al de prácticas 😘
+[22/09/2025, 11:30:15] Dani: chavales no me compila esta mierda
+[22/09/2025, 11:30:22] Dani: pone "syntax error" todo el rato
+[22/09/2025, 11:32:00] Alex: Dani, seguramente te falta un punto y coma al final de la instrucción. O no has cerrado una llave. Manda foto.
+[22/09/2025, 11:33:45] Dani: [Imagen omitida]
+[22/09/2025, 11:34:10] Alex: Efectivamente. En la línea 14, después del `cin >> variable`, te falta el `;`.
+[22/09/2025, 11:35:00] Sofía: Oye chicos, no entiendo nada de los diagramas de flujo 😫 ¿Alguien me lo explica? Siento que voy super perdida y solo llevamos dos semanas.
+[22/09/2025, 11:36:20] Elena: Sofi tranqui!! Quedamos luego en la cafetería y lo miramos? 😘
+[22/09/2025, 11:37:00] Sofía: SIII POR FAVOR 🙏🙏🙏 Eres un ángel.
+[25/09/2025, 21:00:00] Javi: Oye, para la práctica 1 hay que usar funciones o se puede poner todo en el main?
+[25/09/2025, 21:05:12] Laura: El enunciado dice claramente "programación modular". Tienes que usar funciones, Javi.
+[25/09/2025, 21:06:00] Javi: Pfff qué pereza. Vale ty.
+[26/09/2025, 23:15:00] Dani: quien sale hoy? es juernes
+[26/09/2025, 23:16:30] Elena: Yo me apunto a una caña rápida! 🍻
+[26/09/2025, 23:17:00] Alex: Yo paso. Estoy configurando Linux en una máquina virtual.
+[26/09/2025, 23:18:10] Dani: alex eres un personaje te lo juro jajajaja
+[01/10/2025, 16:20:00] Sofía: Chicos habéis visto el ejercicio 4 de la hoja de problemas??? Es imposible!!! Cómo voy a calcular si un número es primo???
+[01/10/2025, 16:22:45] Alex: Es algoritmo básico. Haces un bucle desde 2 hasta la raíz cuadrada del número y compruebas el módulo.
+[01/10/2025, 16:23:00] Sofía: MÓDULO??? RAÍZ??? En qué idioma me hablas Alex 😭😭😭
+[01/10/2025, 16:25:10] Laura: Sofía, el operador módulo es el %. Te da el resto de la división. Mírate la diapositiva 15 del tema 3.
+[05/10/2025, 17:45:12] Laura: Chicos, os recuerdo que la Práctica 1 se entrega el viernes a las 23:59. No lo dejéis para el último momento que se colapsa el campus virtual.
+[05/10/2025, 17:50:22] Javi: El viernes? Uff pensé que era la semana que viene. Toca tryhardear hoy.
+[05/10/2025, 18:00:05] Dani: bua qué pereza... oye renta ir al bar de la facultad ahora? invitan a la tercera tapa
+[05/10/2025, 18:02:11] Alex: Yo no puedo, tengo que optimizar el algoritmo de la práctica. He conseguido reducir la complejidad ciclomática.
+[05/10/2025, 18:03:00] Dani: tú hablas raro bro
+[05/10/2025, 18:03:45] Elena: Yo me apunto un rato Dani! 🍻 Pero solo una hora que tengo que estudiar.
+[05/10/2025, 18:15:00] Sofía: CÓMO QUE SE ENTREGA EL VIERNES???? PENSABA QUE ERA EL LUNES 15!!! ME MUERO AHORA MISMO 💀💀💀
+[06/10/2025, 10:00:00] Javi: Alguien me pasa los apuntes del martes? Estuve malo.
+[06/10/2025, 10:02:00] Laura: Javi, "malo"... te vi conectado al LoL toda la mañana.
+[06/10/2025, 10:03:10] Javi: Shhh detalles.
+[12/10/2025, 22:15:00] Javi: Sale LoL?
+[12/10/2025, 22:16:20] Dani: dale, invita
+[12/10/2025, 22:20:00] Laura: Chicos, mañana es festivo pero yo voy a ir a la biblioteca por la mañana a repasar los bucles `for` y `while`. Si alguien quiere venir, estaré en la mesa de siempre.
+[12/10/2025, 22:25:15] Alex: Los bucles son triviales si entiendes la condición de parada. Lo difícil son los punteros, aunque eso creo que entra en el segundo parcial.
+[12/10/2025, 22:30:00] Sofía: Punteros??? Qué son punteros??? Ya hay cosas nuevas??? No me da la vida 😭😭😭
+[15/10/2025, 09:00:00] Dani: no entiendo nada de la clase de hoy
+[15/10/2025, 09:00:05] Dani: arrays? vectores? eso no es fisica?
+[15/10/2025, 09:05:00] Elena: Jajaja Dani atiende! Es como una lista de variables.
+[15/10/2025, 09:06:00] Dani: uff mucha tela, me voy a la cafetería, me avisáis cuando pase lista
+[20/10/2025, 15:30:00] Laura: Chicos, acaban de subir el enunciado de la Práctica 2. Es sobre gestión de una biblioteca usando arrays de estructuras.
+[20/10/2025, 15:32:00] Sofía: ESTRUCTURAS??? Pero si aún no me sé los bucles!!! 😫😫
+[20/10/2025, 15:35:00] Alex: Es interesante. Permite agrupar datos heterogéneos. Si alguien necesita ayuda con la sintaxis del `struct` que me diga.
+[20/10/2025, 15:40:00] Dani: alex te tomo la palabra porque no sé ni empezar
+[28/10/2025, 10:10:10] Dani: gente hoy hay fiesta de halloween en la discoteca, quién se viene?
+[28/10/2025, 10:12:30] Elena: Yo voy!! 🎃 De qué os vais a disfrazar?
+[28/10/2025, 10:13:45] Dani: yo de programador frustrado, o sea, voy en pijama
+[28/10/2025, 10:15:00] Laura: Yo no creo que salga, tengo que terminar los ejercicios de arrays. El examen es en dos semanas.
+[28/10/2025, 10:16:22] Alex: Yo tampoco. Estoy leyendo documentación sobre gestión de memoria dinámica. Divertíos.
+[28/10/2025, 10:18:00] Javi: Yo voy si va más gente.
+[28/10/2025, 10:20:00] Sofía: Yo debería estudiar pero necesito desconectar o me va a dar un ataque de ansiedad!!!! Voy un rato 👻
+[29/10/2025, 14:00:00] Dani: madre mia que resaca
+[29/10/2025, 14:00:15] Dani: no vuelvo a beber en mi vida
+[29/10/2025, 14:05:00] Elena: Jajaja qué bien nos lo pasamos! Sofía al final te liaste mogollón eh 😜
+[29/10/2025, 14:06:00] Sofía: NO ME LO RECUERDES!!! Qué vergüenza 🙈🙈 y encima hoy no he estudiado nada. Soy un desastre.
+[05/11/2025, 11:00:00] Laura: Chicos, quedan 4 días para el parcial. ¿Cómo lo lleváis?
+[05/11/2025, 11:02:00] Javi: Empezando ahora. Se me ha complicado la semana con el torneo de Valorant.
+[05/11/2025, 11:03:00] Alex: Yo estoy repasando los algoritmos de ordenación. El método de la burbuja es ineficiente, pero creo que es el que pedirán.
+[05/11/2025, 11:04:00] Dani: burbuja? eso se bebe?
+[05/11/2025, 11:05:00] Elena: Dani ponte las pilas que suspendes!! Quedamos mañana en la biblio todos?
+[05/11/2025, 11:06:00] Dani: venga va, me renta
+[07/11/2025, 17:00:00] Sofía: Chicos tengo una duda existencial. ¿Cuándo se usa `do-while` y cuándo `while` normal? Me estoy volviendo loca 🤯
+[07/11/2025, 17:02:00] Laura: El `do-while` se ejecuta al menos una vez, Sofía. El `while` puede que no se ejecute nunca si la condición es falsa al principio.
+[07/11/2025, 17:03:00] Sofía: Vale... creo que lo entiendo. Gracias Lau, me salvas la vida ❤️
+[09/11/2025, 16:00:00] Laura: Mañana es el examen parcial. Traed el DNI y bolígrafo azul o negro. No dejan calculadora.
+[09/11/2025, 16:05:22] Sofía: NO ME SÉ NADA!!!! Se me mezclan los `if` con los `switch`!!! AYUDA 😭😭😭
+[09/11/2025, 16:08:10] Alex: Sofía, el `switch` es solo para casos discretos de una variable. El `if` es para condiciones booleanas generales. No es tan difícil. Relájate.
+[09/11/2025, 16:10:00] Dani: a ver si cae la de hacer la media de un vector, esa me la sé. si ponen matrices estoy jodido
+[09/11/2025, 16:12:45] Elena: Mucha suerte a todos mañana chicos!! 🍀🍀 Lo vamos a petar!
+[09/11/2025, 16:15:00] Javi: Suerte.
+[10/11/2025, 12:30:00] Dani: vaya follada
+[10/11/2025, 12:30:15] Dani: pero qué ha sido el ejercicio 3????
+[10/11/2025, 12:32:00] Sofía: FATAL FATAL FATAL. Lo dejé en blanco. Seguro que tengo un 0. Me cambio de carrera 😭😭😭
+[10/11/2025, 12:35:10] Alex: El 3 era sencillo, solo teníais que anidar dos bucles para recorrer la matriz y aplicar una máscara condicional. A mí me ha dado tiempo a repasarlo dos veces.
+[10/11/2025, 12:36:00] Laura: A mí el 3 me ha costado cuadrarlo, creo que he tenido un fallo en los índices, igual se me sale del rango [i-1]. Pero bueno, el resto creo que bien.
+[10/11/2025, 12:38:22] Elena: Yo he escrito lo que he podido 😅 A ver si hay suerte y el profe corrige por lo alto. Cervecita para olvidar? 🍻
+[10/11/2025, 12:40:00] Dani: de una, estoy ya en el bar
+[10/11/2025, 12:45:00] Javi: Yo me voy a casa a dormir. GG wp.
+[15/11/2025, 10:00:00] Laura: Chicos, ya han empezado el tema nuevo. Punteros y gestión dinámica de memoria.
+[15/11/2025, 10:02:00] Dani: tio, si no sé ni usar la memoria estática, cómo voy a usar la dinámica
+[15/11/2025, 10:05:00] Alex: Es la parte más potente de C++. Podéis acceder directamente a las direcciones de memoria. Cuidado con los `segmentation fault`.
+[15/11/2025, 10:06:00] Sofía: Segmentation qué???? Ya empezamos 😭😭
+[20/11/2025, 09:00:00] Laura: YA ESTÁN LAS NOTAS EN EL CAMPUS!!!
+[20/11/2025, 09:02:15] Sofía: NO QUIERO MIRAR!!! Tengo miedo 🫣🫣
+[20/11/2025, 09:05:00] Alex: Un 9.5. Me ha bajado 0.5 por no comentar el código suficientemente. Increíble. Voy a reclamar.
+[20/11/2025, 09:06:22] Dani: un 4.8.... me cago en todo. creéis que si voy a revisión me sube a 5?
+[20/11/2025, 09:08:00] Elena: He aprobadoooo!! Un 6!! 🎉🎉 Qué tal tú Sofi?
+[20/11/2025, 09:10:15] Sofía: UN 7!!!! NO ME LO CREO!!! PENSABA QUE SUSPENDÍA!!! 🎉🎉🎉😭😭😭 (Lloro de felicidad)
+[20/11/2025, 09:12:00] Javi: Un 5 pelao. GG.
+[20/11/2025, 09:15:00] Laura: Felicidades a todos! Dani, ve a revisión, por intentarlo no pierdes nada. Llévale la práctica impresa.
+[20/11/2025, 09:16:00] Dani: sí, iré a llorarle un poco. gracias gente ❤️
