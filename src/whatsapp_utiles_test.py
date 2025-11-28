@@ -117,11 +117,11 @@ def test_analiza_palabras_caracteristicas():
 
 
 test_calcula_rango_fechas()
-#test_filtra_mensajes_por_fechas()
-#test_cuenta_mensajes_por_usuario()
-#test_cuenta_mensajes_por_hora()
-#test_cuenta_mensajes_por_dia_semana()
-#test_calcula_longitud_media_por_usuario()
-#test_detecta_dia_mas_activo()
-#test_analiza_palabras_frecuentes()
+test_filtra_mensajes_por_fechas()
+test_cuenta_mensajes_por_usuario()
+test_cuenta_mensajes_por_hora()
+test_cuenta_mensajes_por_dia_semana()
+test_calcula_longitud_media_por_usuario()
+test_detecta_dia_mas_activo()
+test_analiza_palabras_caracteristicas()
 print("Todos los tests pasaron correctamente.")
